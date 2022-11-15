@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/AS7A6mv.png)
+![Logo](https://i.imgur.com/HgtXMxs.png)
 ## Screenshot remote wepages from console --- __BETA__
 
 [![Powered by Electron](https://i.imgur.com/MZqkD2n.png)](http://electronjs.org/) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

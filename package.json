@@ -11,10 +11,20 @@
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
-  "keywords": [],
+  "keywords": [
+      "Screenshot",
+      "Remote",
+      "Console",
+      "Windows"
+  ],
   "author": {
     "name": "Toxic48",
     "email": "77108700+Toxic48@users.noreply.github.com"
+  },
+   "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Toxic48/Remote-Screenshot.git"
   },
   "license": "MIT",
   "dependencies": {

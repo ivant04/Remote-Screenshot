@@ -44,6 +44,8 @@ The installation setup will add an input to the system path enviroment variable,
 - [Electron](https://www.electronjs.org/)
 - [Node.js](http://nodejs.org)
 - [JQuery](https://jquery.com/)
+- [InstallForge](https://installforge.net/)
+- [AutoHotkey](https://www.autohotkey.com/)
 &nbsp;
 ## License
 
